@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -8,6 +9,15 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/arivon-common" />
+            <option value="$PROJECT_DIR$/arivon-demo" />
+            <option value="$PROJECT_DIR$/arivon-document-parent" />
+            <option value="$PROJECT_DIR$/arivon-document-redis" />
+            <option value="$PROJECT_DIR$/arivon-sql-h2" />
+            <option value="$PROJECT_DIR$/arivon-sql-mariadb" />
+            <option value="$PROJECT_DIR$/arivon-sql-mysql" />
+            <option value="$PROJECT_DIR$/arivon-sql-parent" />
+            <option value="$PROJECT_DIR$/arivon-sql-postgresql" />
           </set>
         </option>
       </GradleProjectSettings>
